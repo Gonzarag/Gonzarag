@@ -169,6 +169,17 @@ Build a portfolio of practical engineering projects that combine process enginee
 
 ---
 
+## Case Studies
+
+| Case Study | Category | Main Skill | Status |
+|---|---|---|---|
+| Production KPI Dashboard | Dashboard | KPI visualization | Planned |
+| Automated Production Report | Report Automation | Python automation | Planned |
+| Process Anomaly Detection | Anomaly Detection | Pattern detection | Planned |
+| Quality Prediction Model | Prediction Model | Machine learning | Planned |
+
+---
+
 ## 🤝 Connect With Me
 
 - GitHub: @Gonzarag
